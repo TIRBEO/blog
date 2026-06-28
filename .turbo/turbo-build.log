@@ -1,0 +1,18 @@
+
+> blog@0.0.1 build
+> tsc -b && vite build
+
+[36mvite v8.1.0 [32mbuilding client environment for production...[36m[39m
+[2Ktransforming...✓ 16 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.75 kB │ gzip:  0.42 kB
+dist/assets/index-S__AmEtf.css    7.33 kB │ gzip:  2.12 kB
+dist/assets/index-KXPHx8XW.js   190.70 kB │ gzip: 60.11 kB
+
+[32m✓ built in 305ms[39m
+npm notice
+npm notice New minor version of npm available! 11.12.1 -> 11.17.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.17.0
+npm notice To update run: npm install -g npm@11.17.0
+npm notice
